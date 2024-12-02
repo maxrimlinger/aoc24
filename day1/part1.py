@@ -1,4 +1,4 @@
-with open("input.txt", "r") as file:
+with open("part1.txt", "r") as file:
     both_lists = file.read().split()
     list1 = []
     list2 = []
